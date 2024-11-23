@@ -34,15 +34,7 @@ I specialize in creating **intuitive, responsive, and performance-driven** user 
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats in a Table -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AziizBnSalem&show_icons=true&count_private=true&theme=merko" alt="Mohamed Aziz Ben Salem's GitHub stats" style="max-width: 400px;"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziizBnSalem&layout=compact&langs_count=8&theme=merko" alt="Top Languages" style="max-width: 400px;"/>
-    </td>
-  </tr>
-</table>
+<div align="center"> 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AziizBnSalem&show_icons=true&theme=tokyonight" alt="AziizBnSalem github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziizBnSalem&layout=compact&theme=tokyonight&langs_count=4" />|
 </div>
