@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="Image Description" width="100%" style="max-width: 100%;">
-</p>
+
 
 <div align="center">
 
-# 👋 Hello, World!
+<p align="center" >       
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">    
+  </p>     
+
 I am **Mohamed Aziz Ben Salem**, a dedicated **Junior Front-end Developer** and **Software Engineering & Development Student**.  
 I specialize in creating **intuitive, responsive, and performance-driven** user interfaces with a keen focus on creativity and the latest web technologies.
 
