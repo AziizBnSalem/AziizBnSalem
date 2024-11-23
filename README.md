@@ -1,8 +1,11 @@
 <div align="center">
 
 <p align="center" >       
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">    
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aslemaa+!&center=true&size=30">    
   </p>     
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0078D6&size=30&center=true&vCenter=true&width=500&lines=Marhbe+Bikk!;Fibelik+Li+Enty+A9wa+Wahed?;Amaa+Fikk+Ri7aa" alt="Typing SVG">
+</p>
 
 I am **Mohamed Aziz Ben Salem**, a dedicated **Junior Front-end Developer** and **Software Engineering & Development Student**.  
 I specialize in creating **intuitive, responsive, and performance-driven** user interfaces with a keen focus on creativity and the latest web technologies.
