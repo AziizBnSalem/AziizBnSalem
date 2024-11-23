@@ -36,5 +36,5 @@ I specialize in creating **intuitive, responsive, and performance-driven** user 
 
 <div align="center"> 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AziizBnSalem&show_icons=true&theme=tokyonight" alt="AziizBnSalem github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziizBnSalem&layout=compact&theme=tokyonight&langs_count=4" />|
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AziizBnSalem&show_icons=true&theme=tokyonight" alt="AziizBnSalem github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziizBnSalem&layout=compact&theme=tokyonight&langs_count=6" />
 </div>
